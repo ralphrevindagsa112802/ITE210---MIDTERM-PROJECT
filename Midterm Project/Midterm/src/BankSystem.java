@@ -192,7 +192,7 @@ public class BankSystem {
 		System.out.println("Thanks for using the Banking System, " + customerName + "!!");
 		System.out.println("=====================================================================");
 		System.out.println();
-		System.out.println("Exiting Program...");
+		System.out.println("Exiting Program....");
 		TP.wait(3);
 		System.out.println();
 		System.out.println("Program exited.");

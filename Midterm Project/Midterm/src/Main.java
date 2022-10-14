@@ -41,7 +41,7 @@ public class Main {
 
 			default:
 				//If end user enters an option out of the given options
-				System.out.println("ERROR! Invalid Input...");
+				System.out.println("ERROR! Invalid Input....");
 				System.out.println("\n\n\n\n");
 				break;
             }
